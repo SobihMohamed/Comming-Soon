@@ -33,7 +33,7 @@ export default function ComingSoonPage() {
 
 This person is excited for the EOS launch! 🚀`
 
-    const whatsappUrl = `https://wa.me/201225831022?text=${encodeURIComponent(message)}`
+    const whatsappUrl = `https://wa.me/201096619704?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
 
     setIsSubmitted(true)
